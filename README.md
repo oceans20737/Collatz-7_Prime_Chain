@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18864630.svg)](https://doi.org/10.5281/zenodo.18864630)
+
 7-adic Collatz Prime Chains  
 ===========================
 
